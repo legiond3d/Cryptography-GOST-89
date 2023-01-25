@@ -7,4 +7,5 @@
 
 <strong>Шифр:</strong> 鈃ᛳ濫疒Ѥᬷ㿛㾲附痴ٺ쿜㛀凐툇욼
 
+<strong>Интерфейс:</strong>
 ![image](https://user-images.githubusercontent.com/76095519/214585054-9fbc4666-b005-4793-a152-e7ef8705899b.png)
